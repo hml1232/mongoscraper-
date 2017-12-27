@@ -1,0 +1,23 @@
+{
+  "name": "mongoscraper-",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hml1232/mongoscraper-.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hml1232/mongoscraper-/issues"
+  },
+  "homepage": "https://github.com/hml1232/mongoscraper-#readme",
+  "dependencies": {
+    "express-handlebars": "^3.0.0"
+  },
+  "devDependencies": {}
+}
