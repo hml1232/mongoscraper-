@@ -19,7 +19,8 @@
   "homepage": "https://github.com/hml1232/mongoscraper-#readme",
   "dependencies": {
     "express": "^4.16.2",
-    "express-handlebars": "^3.0.0"
+    "express-handlebars": "^3.0.0",
+    "morgan": "^1.9.0"
   },
   "devDependencies": {}
 }
