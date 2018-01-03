@@ -11,8 +11,8 @@ var mongoose = require("mongoose");
 // Set mongoose to leverage built in JavaScript ES6 Promises
 mongoose.Promise = Promise;
 
-var Note = require("../models/Note.js");
-var Article = require("../models/Article.js");
+var Note = require("../models/note");
+var Article = require("../models/article");
 
 router.get("/", function(req, res) {
   res.render("index");
